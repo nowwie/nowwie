@@ -20,11 +20,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowwie&repo=web-pribadi&theme=tokyonight)](https://github.com/nowwie/kabarin)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowwie&repo=memo-crud&theme=tokyonight)](https://github.com/nowwie/flowerbucket)
-
 <table>
   <tr>
     <td>
@@ -35,6 +30,10 @@
     </td>
   </tr>
 </table>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowwie&repo=web-pribadi&theme=tokyonight)](https://github.com/nowwie/kabarin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowwie&repo=memo-crud&theme=tokyonight)](https://github.com/nowwie/flowerbucket)
+
 
 > 🌟 *Let’s connect and build something amazing together!*
 
