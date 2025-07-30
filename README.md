@@ -22,14 +22,17 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=novitaazka&show_icons=true&theme=tokyonight" alt="Novita's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nowwie&show_icons=true&theme=tokyonight" alt="Novita's GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novitaazka&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowwie&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowwie&repo=kabarin&theme=tokyonight)](https://github.com/nowwie/kabarin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowwie&repo=memo-crud&theme=tokyonight)](https://github.com/nowwie/flowerbucket)
 
 > 🌟 *Let’s connect and build something amazing together!*
 
