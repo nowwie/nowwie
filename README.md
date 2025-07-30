@@ -21,18 +21,20 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nowwie&show_icons=true&theme=tokyonight" alt="Novita's GitHub Stats" />
-</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowwie&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowwie&repo=kabarin&theme=tokyonight)](https://github.com/nowwie/kabarin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowwie&repo=web-pribadi&theme=tokyonight)](https://github.com/nowwie/kabarin)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowwie&repo=memo-crud&theme=tokyonight)](https://github.com/nowwie/flowerbucket)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nowwie&show_icons=true&theme=tokyonight&count_private=true&hide=contribs" alt="Novita's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowwie&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 > 🌟 *Let’s connect and build something amazing together!*
 
