@@ -23,16 +23,24 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nowwie&show_icons=true&theme=tokyonight&count_private=true&hide=contribs" alt="Novita's GitHub Stats" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=nowwie&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&cache_seconds=7200" 
+        alt="nowwie GitHub Stats"
+      />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowwie&layout=compact&theme=tokyonight" alt="Top Languages" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowwie&layout=compact&theme=tokyonight&cache_seconds=7200" 
+        alt="Top Languages"
+      />
     </td>
   </tr>
 </table>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowwie&repo=web-pribadi&theme=tokyonight)](https://github.com/nowwie/kabarin)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowwie&repo=memo-crud&theme=tokyonight)](https://github.com/nowwie/flowerbucket)
+[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=nowwie&repo=web-pribadi&theme=tokyonight&cache_seconds=7200)](https://github.com/nowwie/web-pribadi)
+
+[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=nowwie&repo=charity-now&theme=tokyonight&cache_seconds=7200)](https://github.com/nowwie/memo-crud)
+
 
 
 > 🌟 *Let’s connect and build something amazing together!*
