@@ -39,7 +39,7 @@
 
 [![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=nowwie&repo=web-pribadi&theme=tokyonight&cache_seconds=7200)](https://github.com/nowwie/web-pribadi)
 
-[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=nowwie&repo=charity-now&theme=tokyonight&cache_seconds=7200)](https://github.com/nowwie/memo-crud)
+[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=nowwie&repo=charity-now&theme=tokyonight&cache_seconds=7200)](https://github.com/nowwie/charity-now)
 
 
 
